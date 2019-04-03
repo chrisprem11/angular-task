@@ -1,0 +1,19 @@
+.header-row {
+  background: linear-gradient(to right, #cc99ff 0%, #ff3399 100%);
+}
+
+.header-row a:hover {
+  background-color: rgb(88, 104, 194);
+}
+
+.header-row a:active {
+  background-color: white;
+}
+
+.custom-gradient-row {
+  background: linear-gradient(to left, #cc99ff 0%, #ff3399 100%);
+}
+
+.favourite :hover {
+  color: white;
+}
